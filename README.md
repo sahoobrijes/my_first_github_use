@@ -1,3 +1,3 @@
 # my_first_github_use
-My First git repository
+This is My First Github Repository
 Author - Brijes Kumar Sahoo
